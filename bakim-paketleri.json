@@ -1,0 +1,22 @@
+{
+  "paketler": [
+    {
+      "paket_adi": "Başlangıç",
+      "hedef": "1-10 bilgisayarlı küçük ofisler",
+      "icerik": ["Uzaktan destek", "Aylık sistem kontrolü", "Antivirüs yönetimi"],
+      "sla": "24 saat içinde müdahale"
+    },
+    {
+      "paket_adi": "Profesyonel",
+      "hedef": "10-50 kullanıcılı orta ölçekli firmalar",
+      "icerik": ["7/24 izleme", "Uzaktan + yerinde destek", "Güvenlik yönetimi", "Yedekleme", "Aylık raporlama"],
+      "sla": "4 saat içinde müdahale"
+    },
+    {
+      "paket_adi": "Kurumsal",
+      "hedef": "50+ kullanıcılı büyük firmalar",
+      "icerik": ["7/24 izleme ve destek", "Özel teknisyen atama", "Siber güvenlik", "Bulut yedekleme", "Felaket kurtarma", "Detaylı raporlama"],
+      "sla": "1 saat içinde müdahale"
+    }
+  ]
+}
