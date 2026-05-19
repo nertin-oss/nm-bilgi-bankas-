@@ -1,14 +1,24 @@
 {
-  "email": "sosyal@nmbilgisayar.com",
-  "telefon": "+90 536 258 84 84",
-  "whatsapp": "+90 536 258 84 84",
-  "adres": "Yakuplu Merkez Mah. Hürriyet Bul. No:53/14 Beylikdüzü",
-  "konum": "İstanbul, Türkiye",
-  "google_maps": "https://maps.app.goo.gl/j5uNLTPFbsSTnn1U6",
-  "web": "https://nmbilgisayar.com",
-  "sosyal_medya": {
-    "instagram": "https://www.instagram.com/nmbilgisayar/?hl=tr",
-    "linkedin": "https://www.linkedin.com/in/nm-bilgisayar-teknolojileri-dan%C4%B1%C5%9Fmanl%C4%B1%C4%9F%C4%B1-0640b3404/",
-    "facebook": "https://www.facebook.com/profile.php?id=100076144543532"
-  }
+  "sss": [
+    {
+      "soru": "Uzaktan destek nasıl çalışır?",
+      "cevap": "Güvenli uzak bağlantı yazılımıyla bilgisayarınıza bağlanarak sorununuzu anında çözüyoruz. İnternet bağlantınızın olması yeterlidir."
+    },
+    {
+      "soru": "Bakım anlaşması ne içerir?",
+      "cevap": "7/24 sistem izleme, periyodik bakım, uzaktan ve yerinde destek, güvenlik güncellemeleri, aylık raporlama dahildir. Paketlere göre içerik değişir."
+    },
+    {
+      "soru": "Acil durumlarda ne kadar sürede müdahale ediyorsunuz?",
+      "cevap": "Bakım anlaşması olan müşterilerimize acil durumlarda en geç 1 saat içinde müdahale ediyoruz."
+    },
+    {
+      "soru": "Hangi markaların ürünlerini satıyorsunuz?",
+      "cevap": "HP , DELL , LENOVA , IBM , EXA"
+    },
+    {
+      "soru": "Teklif almak ücretli mi?",
+      "cevap": "Hayır, tüm hizmetlerimiz için ücretsiz keşif görüşmesi ve fiyat teklifi sunuyoruz."
+    }
+  ]
 }
