@@ -1,0 +1,58 @@
+{
+  "hizmetler": [
+    {
+      "kategori": "Kurumsal IT Bakım",
+      "aciklama": "Sistemlerinizin kesintisiz çalışması için 7/24 izleme, proaktif bakım ve teknik destek hizmetleri.",
+      "alt_hizmetler": ["7/24 İzleme", "Uzaktan Destek", "Periyodik Bakım", "Yerinde Destek"],
+      "sure": "Aylık/yıllık anlaşma"
+    },
+    {
+      "kategori": "Network & Altyapı",
+      "aciklama": "Güvenli, hızlı ve ölçeklenebilir ağ altyapıları tasarlıyor, kuruyoruz.",
+      "alt_hizmetler": ["Ağ Tasarımı", "VPN Kurulumu", "Switch/Router Yapılandırma", "WiFi Çözümleri"],
+      "sure": "Proje bazlı"
+    },
+    {
+      "kategori": "Domain / DNS / Sunucu Yönetimi",
+      "aciklama": "Alan adı tescili, DNS yönetimi, mail server ve Active Directory kurulum/yönetimi.",
+      "alt_hizmetler": ["Domain Tescili", "DNS Yönetimi", "Exchange Server", "Active Directory", "SSL Sertifika"],
+      "sure": "Kurulum + aylık yönetim"
+    },
+    {
+      "kategori": "Siber Güvenlik",
+      "aciklama": "Verilerinizi ve sistemlerinizi siber tehditlere karşı uçtan uca koruma altına alıyoruz.",
+      "alt_hizmetler": ["Güvenlik Duvarı", "Sızma Testi", "Uç Nokta Koruma", "Antivirüs Yönetimi", "KVKK Uyum"],
+      "sure": "Proje + sürekli izleme"
+    },
+    {
+      "kategori": "Bulut Çözümleri & Backup",
+      "aciklama": "Güvenli bulut altyapıları ve otomatik yedekleme çözümleri.",
+      "alt_hizmetler": ["Bulut Altyapı", "Otomatik Yedekleme", "Felaket Kurtarma", "NAS Çözümleri"],
+      "sure": "Aylık abonelik"
+    },
+    {
+      "kategori": "Web Tasarım & Sosyal Medya",
+      "aciklama": "Modern web siteleri, SEO optimizasyonu ve sosyal medya yönetimi.",
+      "alt_hizmetler": ["Kurumsal Web Sitesi", "E-Ticaret", "SEO", "Sosyal Medya Yönetimi", "İçerik Üretimi"],
+      "sure": "Proje + aylık yönetim"
+    },
+    {
+      "kategori": "Yapay Zeka & Otomasyon",
+      "aciklama": "İş süreçlerinizi AI ile otomatikleştiriyor, eğitim ve danışmanlık sunuyoruz.",
+      "alt_hizmetler": ["AI Entegrasyonları", "Chatbot Geliştirme", "RPA", "AI Eğitimleri", "N8N Otomasyon"],
+      "sure": "Proje bazlı + eğitim"
+    },
+    {
+      "kategori": "Özel Yazılım Geliştirme",
+      "aciklama": "İşletmenize özel CRM, ERP, stok takip ve portal çözümleri geliştiriyoruz.",
+      "alt_hizmetler": ["CRM Yazılımı", "ERP Entegrasyonu", "Stok Takip", "Müşteri Portalı", "API Geliştirme"],
+      "sure": "Proje bazlı"
+    },
+    {
+      "kategori": "Donanım Satış & Teknik Servis",
+      "aciklama": "Bilgisayar, sunucu, ağ ekipmanı satışı ve teknik servis hizmetleri.",
+      "alt_hizmetler": ["Laptop/PC Satışı", "Sunucu Satışı", "Ağ Ekipmanları", "Teknik Servis", "Yedek Parça"],
+      "sure": "Anında"
+    }
+  ]
+}
