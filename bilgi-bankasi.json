@@ -1,0 +1,166 @@
+{
+  "firma": {
+    "ad": "N&M Bilgisayar",
+    "slogan": "Teknolojiyle Güçlü, Güvenle İleri",
+    "kurulus_yili": 2004,
+    "lokasyon": "Yakuplu Merkez Mah. Hürriyet Bul. No:53/14 Beylikdüzü, İstanbul",
+    "hakkinda": "N&M Bilgisayar, 2004 yılından bu yana kurumsal firmalara uçtan uca teknoloji çözümleri sunmaktadır. 20 yılı aşkın deneyimimizle 500'den fazla kurumsal müşteriye 7/24 kesintisiz hizmet veriyoruz. Bulut altyapı, siber güvenlik, yapay zeka, web tasarım ve IT bakım alanlarında uzman kadromuzla işletmenizin teknoloji ihtiyaçlarını güvenle karşılıyoruz.",
+    "degerler": ["Güvenilirlik", "Kesintisiz Destek", "Yenilikçilik", "Müşteri Odaklılık", "Şeffaflık"],
+    "istatistikler": {
+      "yillik_deneyim": "20+",
+      "kurumsal_musteri": "500+",
+      "teknik_destek": "7/24",
+      "sistem_uptime": "%99.9"
+    }
+  },
+  "iletisim": {
+    "email": "sosyal@nmbilgisayar.com",
+    "telefon": "+905362588484",
+    "whatsapp": "+905362588484",
+    "adres": "Yakuplu Merkez Mah. Hürriyet Bul. No:53/14 Beylikdüzü, İstanbul, Türkiye",
+    "web": "www.nmbilgisayar.com",
+    "calisma_saatleri": "Hafta içi 09:00-18:00",
+    "acil_destek": "7/24 (bakım anlaşması kapsamında)",
+    "sosyal_medya": {
+      "instagram": "https://www.instagram.com/nmbilgisayar",
+      "linkedin": "https://www.linkedin.com/company/nmbilgisayar",
+      "facebook": "https://www.facebook.com/nmbilgisayar"
+    }
+  },
+  "hizmetler": [
+    {
+      "kategori": "Kurumsal IT Bakım",
+      "aciklama": "Sistemlerinizin kesintisiz çalışması için 7/24 izleme, proaktif bakım ve teknik destek hizmetleri sağlıyoruz.",
+      "alt_hizmetler": ["7/24 Sistem İzleme", "Uzaktan Destek", "Yerinde Destek", "Periyodik Bakım", "Aylık Performans Raporlama"],
+      "sure": "Aylık veya yıllık anlaşma"
+    },
+    {
+      "kategori": "Network & Altyapı",
+      "aciklama": "Güvenli, hızlı ve ölçeklenebilir ağ altyapıları tasarlıyor, kurulumunu yapıyoruz.",
+      "alt_hizmetler": ["Ağ Tasarımı ve Kurulumu", "VPN Kurulumu", "Switch/Router Yapılandırma", "WiFi Çözümleri", "Kablolama Altyapısı", "Access Point Kurulumu"],
+      "sure": "Proje bazlı"
+    },
+    {
+      "kategori": "Domain / DNS / Sunucu Yönetimi",
+      "aciklama": "Alan adı tescili, DNS yönetimi, mail server ve Active Directory kurulum ile yönetim hizmetleri sunuyoruz.",
+      "alt_hizmetler": ["Domain Tescili ve Yenileme", "DNS Yönetimi", "Exchange Server Kurulumu", "Active Directory Yönetimi", "SSL Sertifika", "Mail Server Yönetimi"],
+      "sure": "Kurulum + aylık yönetim"
+    },
+    {
+      "kategori": "Siber Güvenlik",
+      "aciklama": "Verilerinizi ve sistemlerinizi siber tehditlere karşı uçtan uca koruma altına alıyoruz.",
+      "alt_hizmetler": ["Güvenlik Duvarı (Firewall)", "Sızma Testi (Penetration Test)", "Uç Nokta Koruma (Endpoint Security)", "Antivirüs Yönetimi", "KVKK Uyum Danışmanlığı", "Güvenlik Eğitimi"],
+      "sure": "Proje + sürekli izleme"
+    },
+    {
+      "kategori": "Bulut Çözümleri & Backup",
+      "aciklama": "Güvenli bulut altyapıları, otomatik yedekleme ve felaket kurtarma çözümleri sunuyoruz.",
+      "alt_hizmetler": ["Bulut Sunucu Kurulumu", "Otomatik Yedekleme Sistemleri", "Felaket Kurtarma Planı", "NAS Çözümleri", "Bulut Mail (Microsoft 365, Google Workspace)", "Dosya Paylaşım Sistemleri"],
+      "sure": "Aylık abonelik"
+    },
+    {
+      "kategori": "Web Tasarım & Sosyal Medya",
+      "aciklama": "Modern, mobil uyumlu web siteleri tasarlıyor, SEO optimizasyonu ve sosyal medya yönetimi yapıyoruz.",
+      "alt_hizmetler": ["Kurumsal Web Sitesi", "E-Ticaret Sitesi", "Landing Page", "SEO Optimizasyonu", "Site Hız Optimizasyonu", "Sosyal Medya Yönetimi", "İçerik Üretimi", "Google Ads ve Reklam Yönetimi"],
+      "sure": "Proje + aylık yönetim"
+    },
+    {
+      "kategori": "Yapay Zeka & Otomasyon",
+      "aciklama": "İş süreçlerinizi yapay zeka ve otomasyon teknolojileriyle güçlendiriyor, verimlilik artışı sağlıyoruz.",
+      "alt_hizmetler": ["AI Chatbot Geliştirme", "WhatsApp/Instagram Bot", "İş Süreçleri Otomasyonu (N8N, RPA)", "AI Destekli Veri Analizi", "Kurumsal AI Eğitimi ve Workshop", "Müşteri İletişimi Otomasyonu"],
+      "sure": "Proje bazlı + eğitim"
+    },
+    {
+      "kategori": "Özel Yazılım Geliştirme",
+      "aciklama": "İşletmenize özel CRM, ERP, stok takip ve portal çözümleri geliştiriyoruz.",
+      "alt_hizmetler": ["CRM Yazılımı", "ERP Entegrasyonu", "Stok Takip Sistemi", "Müşteri Portalı", "API Geliştirme ve Entegrasyon", "Mobil Uygulama"],
+      "sure": "Proje bazlı"
+    },
+    {
+      "kategori": "Donanım Satış & Teknik Servis",
+      "aciklama": "Bilgisayar, sunucu, ağ ekipmanı satışı ve profesyonel teknik servis hizmetleri sunuyoruz.",
+      "alt_hizmetler": ["Laptop ve Masaüstü Bilgisayar", "Sunucu Satışı ve Kurulumu", "Ağ Ekipmanları (Switch, Router, AP)", "Yazıcı ve Çevre Birimleri", "Teknik Servis ve Onarım", "Yedek Parça Temini"],
+      "sure": "Anında teslimat / servis"
+    }
+  ],
+  "bakim_paketleri": [
+    {
+      "paket_adi": "Başlangıç Paketi",
+      "hedef": "1-10 bilgisayarlı küçük ofisler",
+      "icerik": ["Uzaktan teknik destek", "Aylık sistem kontrolü", "Antivirüs yönetimi", "Temel güvenlik taraması"],
+      "sla": "24 saat içinde müdahale",
+      "destek_kanali": "Uzaktan"
+    },
+    {
+      "paket_adi": "Profesyonel Paket",
+      "hedef": "10-50 kullanıcılı orta ölçekli firmalar",
+      "icerik": ["7/24 sistem izleme", "Uzaktan + yerinde destek", "Güvenlik yönetimi ve güncelleme", "Otomatik yedekleme", "Aylık performans raporlama", "VPN ve ağ yönetimi"],
+      "sla": "4 saat içinde müdahale",
+      "destek_kanali": "Uzaktan + Yerinde"
+    },
+    {
+      "paket_adi": "Kurumsal Paket",
+      "hedef": "50+ kullanıcılı büyük firmalar",
+      "icerik": ["7/24 izleme ve destek", "Özel teknisyen atama", "Kapsamlı siber güvenlik", "Bulut yedekleme ve felaket kurtarma", "Active Directory yönetimi", "Detaylı aylık raporlama", "Öncelikli müdahale"],
+      "sla": "1 saat içinde müdahale",
+      "destek_kanali": "Uzaktan + Yerinde + Özel Teknisyen"
+    }
+  ],
+  "calisma_sureci": [
+    {"adim": 1, "baslik": "İhtiyaç Analizi", "aciklama": "Mevcut durumunuzu dinliyor, hedeflerinizi ve teknik gereksinimlerinizi netleştiriyoruz."},
+    {"adim": 2, "baslik": "Altyapı Kontrolü", "aciklama": "Ağ, güvenlik ve sistem altyapınızı detaylı olarak inceliyor, teknik raporumuzu oluşturuyoruz."},
+    {"adim": 3, "baslik": "Çözüm Planı", "aciklama": "En verimli, güvenli ve maliyet-etkin teknoloji stratejisini sizin için tasarlıyoruz."},
+    {"adim": 4, "baslik": "Kurulum / Uygulama", "aciklama": "Uzman ekibimizle sistemlerinizi kuruyor, kesintisiz entegrasyon sağlıyoruz."},
+    {"adim": 5, "baslik": "Bakım ve Sürekli Destek", "aciklama": "İzleme, periyodik bakım ve anında müdahale ile iş sürekliliğinizi koruyoruz."}
+  ],
+  "sss": [
+    {
+      "soru": "Uzaktan destek nasıl çalışır?",
+      "cevap": "Güvenli uzak bağlantı yazılımıyla bilgisayarınıza bağlanarak sorununuzu anında çözüyoruz. İnternet bağlantınızın olması yeterlidir."
+    },
+    {
+      "soru": "Bakım anlaşması ne içerir?",
+      "cevap": "Paketinize göre değişmekle birlikte; sistem izleme, periyodik bakım, uzaktan/yerinde destek, güvenlik güncellemeleri ve aylık raporlama dahildir."
+    },
+    {
+      "soru": "Acil durumlarda ne kadar sürede müdahale ediyorsunuz?",
+      "cevap": "Bakım anlaşması olan müşterilerimize paketine göre 1-24 saat içinde müdahale ediyoruz. Kurumsal pakette en geç 1 saat."
+    },
+    {
+      "soru": "Teklif almak ücretli mi?",
+      "cevap": "Hayır, tüm hizmetlerimiz için ücretsiz keşif görüşmesi ve fiyat teklifi sunuyoruz."
+    },
+    {
+      "soru": "Hangi şehirlerde hizmet veriyorsunuz?",
+      "cevap": "Merkezimiz İstanbul Beylikdüzü'nde olmakla birlikte uzaktan destek ile Türkiye genelinde hizmet veriyoruz. Yerinde destek şu an İstanbul ile sınırlıdır."
+    },
+    {
+      "soru": "Web sitesi yaptırmak ne kadar sürer?",
+      "cevap": "Kurumsal web sitesi projesi ortalama 2-4 hafta, e-ticaret projeleri 4-8 hafta sürmektedir. Proje kapsamına göre değişir."
+    },
+    {
+      "soru": "AI ve otomasyon çözümleri hangi alanlarda kullanılabilir?",
+      "cevap": "Müşteri iletişimi (chatbot, WhatsApp bot), iş süreçleri otomasyonu, veri analizi, raporlama ve içerik üretimi gibi birçok alanda kullanılabilir."
+    },
+    {
+      "soru": "Veri güvenliği ve KVKK konusunda neler yapıyorsunuz?",
+      "cevap": "Tüm hizmetlerimizde KVKK uyumluluğuna dikkat ediyoruz. Veri şifreleme, güvenli yedekleme ve erişim kontrolü ile verilerinizi koruyoruz."
+    },
+    {
+      "soru": "Mevcut sistemimizi değiştirmeden destek alabilir miyiz?",
+      "cevap": "Evet, mevcut altyapınıza entegre olarak çalışıyoruz. Sistemlerinizi değiştirmeden optimizasyon ve destek sağlayabiliriz."
+    },
+    {
+      "soru": "Donanım satışında garanti var mı?",
+      "cevap": "Sattığımız tüm ürünler üretici garantisi kapsamındadır. Ayrıca kurulum ve ilk konfigürasyon desteği ücretsizdir."
+    }
+  ],
+  "neden_biz": [
+    {"baslik": "2004'ten Gelen Tecrübe", "aciklama": "20+ yıllık sektör deneyimimizle güvenilir çözümler sunuyoruz."},
+    {"baslik": "Kurumsal Firmalara Özel", "aciklama": "Kurumsal ihtiyaçlara özel esnek ve ölçeklenebilir çözümler geliştiriyoruz."},
+    {"baslik": "Hızlı ve Ulaşılabilir Destek", "aciklama": "7/24 teknik destek ekibimizle sorunlarınıza hızlıca çözüm üretiyoruz."},
+    {"baslik": "Güvenlik Odaklı Yaklaşım", "aciklama": "Veri güvenliğinizi önceliklendiririz, en yüksek standartlarda koruyoruz."},
+    {"baslik": "Tek Noktadan Teknoloji", "aciklama": "Tüm teknoloji ihtiyaçlarınız için tek noktadan kapsamlı hizmet sunuyoruz."},
+    {"baslik": "Uzun Vadeli Çözüm Ortaklığı", "aciklama": "Sadece bugün için değil, yarınlarınız için de yanınızda oluyoruz."}
+  ]
+}
